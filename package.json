@@ -1,0 +1,23 @@
+{
+  "name": "nodemodule",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rich77926/NodeModule.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rich77926/NodeModule/issues"
+  },
+  "homepage": "https://github.com/rich77926/NodeModule#readme",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
+}
