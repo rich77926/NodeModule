@@ -18,6 +18,10 @@
   "homepage": "https://github.com/rich77926/NodeModule#readme",
   "type": "module",
   "dependencies": {
+    "@angular/cli": "^15.1.5",
     "chalk": "^5.2.0"
+  },
+  "devDependencies": {
+    "angular": "^1.8.3"
   }
 }
